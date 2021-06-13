@@ -6,6 +6,12 @@ I'm a high school student pursuing computer science as a long term career!
 
 [![](https://github-readme-stats.vercel.app/api?username=FlowGoCrazy&count_private=true&show_icons=true&title_color=41b883&icon_color=41b883&text_color=fffefe&bg_color=273849)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Favorite IDEs
+
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+
 ## My Favorite Languages
 
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,6 +31,7 @@ I'm a high school student pursuing computer science as a long term career!
 ![](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## My Favorite Hosts
